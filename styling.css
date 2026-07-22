@@ -1,0 +1,16 @@
+@font-face{
+    src:url(fonts/RobotoSlab.ttf);
+    font-family: RobotoSlab;
+}
+
+h1{
+    color:aqua;
+    font-family:RobotoSlab;
+}
+
+p{
+    background-color: rgb(96, 181, 106);
+    color:rgb(30, 13, 213);
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
